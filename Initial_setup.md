@@ -1,6 +1,7 @@
 Installed RHEL on both of my servers.
 
-I want to setup cockpit so I can have web-based monitoring and management of my server.  
+I want to setup cockpit so I can have web-based monitoring and management of my server. 
+I also want to setup ansible for configuration management. 
 
 Notes:
 - I had to register to the red hat network before installing any software packages.
