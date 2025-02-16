@@ -18,3 +18,4 @@ Ansible Notes:
   - https://www.youtube.com/watch?v=E274Lv1QhDg
 - After installation I wanted to do a simple ping test of my host machines
   - https://www.redhat.com/en/blog/ansible-quick-start
+- "ansible all -m ping -i inventory.yaml" successfully reached out to the hosts. 
