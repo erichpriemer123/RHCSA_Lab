@@ -1,5 +1,5 @@
 After learning about user management for the RHCSA exam, I believe it is in my best interest to learn how to properly setup Identity management, to avoid the pain that is 
-configuring users/groups accross a fleet of servers.
+configuring local users/groups accross a fleet of servers.
 What I have learned about users and groups from chapter 5/6: 
 - 5 files for user/group management= passwd, shadow, group, gshadow, login.defs
 - There are many commands that let you make changes to these files.
